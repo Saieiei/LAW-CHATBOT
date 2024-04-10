@@ -2,7 +2,7 @@ import streamlit as st
 from backend import comp_process
 
 # Assign your OpenAI API key here
-api_key = "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"
+api_key = "sk-"
 
 def frontend():
     # Streamlit UI
